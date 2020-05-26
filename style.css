@@ -1,0 +1,38 @@
+
+.done {
+  text-decoration: line-through;
+}
+
+ul {
+  cursor: pointer;
+}
+
+.buttonDel {
+  background-color: rgb(199, 42, 42);
+  margin-left: 8px;
+  padding: 0 4px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+button {
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+button {
+  background-color: rgb(121, 121, 121);
+  color: white;
+  margin: 4px;
+  padding: 3px;
+  text-align: center;
+  display: inline-block;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity:1;
+}
